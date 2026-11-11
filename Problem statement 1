@@ -1,0 +1,36 @@
+Consider there is an  e-commerce platform where it is getting a lot of customer queries, your job is to identify the query and categorize it using the predefined category. 
+
+• Delivery
+• Shipping
+• Refund
+• Payment
+• Cancellation
+• Defect
+• Return
+• Account
+• Unknown
+
+Here is the predefined category 
+
+I will be giving you an example to categorize the query
+
+My order has not arrived yet           -             Delivery
+My package is stuck in transit         -             Shipping
+I haven't received my money back       -             Refund
+
+Money was deducted twice
+
+from my account                          -             Payment
+I want to cancel my order                -             Cancellation
+The product I received is broken         -             Defect
+I want to send this product back         -             Return
+I cannot log in to my account            -             Account
+What is the capital of India? Unknown
+
+Now ill be giving you few queries you should categorize them
+
+1. Money was twice deducted from my account and my order has not yet arrived.
+2. I want to cancel my order
+3. I want to send the product back.
+
+you should also tell me what kind of model you will use to solve this problem and how will it help the e-commerce platform, and you should create a Program to solve this problem.
