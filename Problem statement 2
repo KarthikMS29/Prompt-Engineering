@@ -1,0 +1,38 @@
+I want you to create a database for analysis of customer review which will include this table or certain related user input  
+
+Input Review  (this is one column) 
+The product is excellent, and I love its quality. 
+The customer support team was extremely helpful.
+Battery is good.
+The camera is good. 
+
+Consider these inputs under positive  customer review 
+
+The delivery was late, and the product was damaged.
+The product is not worth the money.
+The phone is good, but the battery life is terrible.
+Packaging was not good.
+
+Consider these inputs under negative Customer review.
+
+The product arrived yesterday.
+The package contained two items.
+Camera is good but the processor is slow.
+
+Sentiment based on the user input 
+Positive : 
+Good 
+Better
+It was okay 
+Its amazing 
+
+Negative : 
+It was bad 
+Not satisfied 
+It should have been better
+
+Nuteral 
+
+You have to analyze the input and you are permitted to learn and classify it and store it in the database in the defined table category. 
+Also read the tokens of the user input. 
+Your Task is to abide by this constraints : The output must contain a single word output which is positive, negative, Neutral. It should analyze the sentimental review of the user and classify and also learn if its not stored in the database. 
