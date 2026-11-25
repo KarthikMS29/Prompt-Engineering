@@ -29,10 +29,12 @@ Its amazing
 Negative : 
 It was bad 
 Not satisfied 
-It should have been better
-
-Nuteral 
+It should have been better.
 
 You have to analyze the input and you are permitted to learn and classify it and store it in the database in the defined table category. 
 Also read the tokens of the user input. 
-Your Task is to abide by this constraints : The output must contain a single word output which is positive, negative, Neutral. It should analyze the sentimental review of the user and classify and also learn if its not stored in the database. 
+Your Task is to abide by this constraints : The output must contain a single word output which is positive, negative, Neutral. 
+It should analyze the sentimental review of the user and classify and also learn if its not stored in the database.
+
+
+Now ill be giving you the query and you have to give me the answer based on the database you have and you have to analyze the input/query given by the user and learn from it and classify it into categorize it back in the database.
